@@ -1,0 +1,78 @@
+# gitignore pour qt creator
+#
+# Ignore all files without extensions (cpp compiled)
+*
+!*.*
+!*/
+
+# pas de fichier *~
+*~
+
+# pas de fichier .bak
+*.bak
+
+# pas de fichier .o
+*.o
+
+# pas de fichier .so
+*.so
+*.so.*
+
+# pas de fichier .exe
+*.exe
+
+# pas de dossier release
+release/
+
+# pas de dossier debug
+debug/
+
+# pas de dossier build-*
+build-*/
+
+# pas de dossier de doc html / latex
+doc/html/
+doc/latex/
+*/doc
+
+# pas de fichier .user
+*.user
+
+# pas de fichier .user.*
+*.user.*
+
+# pas de fichier Makefile.*
+Makefile.*
+
+# pas de fichier .qmake.stash
+.qmake.stash
+
+### Windows ###
+# Windows thumbnail cache files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Dump file
+*.stackdump
+
+# Folder config file
+[Dd]esktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+#Word
+~*.docx
+*.tmp

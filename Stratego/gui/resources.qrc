@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/icon.png</file>
+        <file>resources/spy.png</file>
+        <file>resources/eclaireur.png</file>
+        <file>resources/bombe.png</file>
+        <file>resources/colonel.png</file>
+        <file>resources/demineur.png</file>
+        <file>resources/flag.png</file>
+        <file>resources/lieutenant.png</file>
+        <file>resources/major.png</file>
+        <file>resources/marechal.png</file>
+        <file>resources/sergent.png</file>
+        <file>resources/water.png</file>
+        <file>resources/general.png</file>
+        <file>resources/commandant.png</file>
+        <file>resources/unknow.png</file>
+        <file>resources/playBtn.jpg</file>
+    </qresource>
+</RCC>
